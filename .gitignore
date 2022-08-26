@@ -1,0 +1,9 @@
+syntax: glob
+flying-saucer-core/target/
+flying-saucer-pdf-itext5/target/
+iodaObjectLib/target/
+ParerDocumentBuilder/target/
+pdfconverter_client/target/
+parameters_client/target/
+jwtgenerator/target/
+parersender/target/
